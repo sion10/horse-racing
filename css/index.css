@@ -2,15 +2,27 @@ body {
 	font-family: sans-serif;
 }
 
-header, footer {
-	text-align: center;
+header {
+	display: flex;
 }
 
-footer {
-	margin-top: 20px;
+header>form {
 }
 
 main {
 	display: flex;
 	justify-content: center;
+}
+
+footer {
+	text-align: center;
+	margin-top: 20px;
+}
+
+form.row {
+	width: 100%;
+}
+
+.login-form {
+	width: 20%;
 }
