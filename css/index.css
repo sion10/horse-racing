@@ -1,0 +1,16 @@
+body {
+	font-family: sans-serif;
+}
+
+header, footer {
+	text-align: center;
+}
+
+footer {
+	margin-top: 20px;
+}
+
+main {
+	display: flex;
+	justify-content: center;
+}
