@@ -8,6 +8,7 @@ header {
 }
 
 header>form {
+	margin-left: 2em;
 }
 
 main {
@@ -20,10 +21,11 @@ footer {
 	margin-top: 20px;
 }
 
-form .row {
+#login-form .row {
 	width: 100%;
+	margin-bottom: 2px;
 }
 
-.login-form {
+#login-form {
 	width: 20%;
 }
