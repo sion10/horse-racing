@@ -4,6 +4,7 @@ body {
 
 header {
 	display: flex;
+	justify-content: center;
 }
 
 header>form {
@@ -19,7 +20,7 @@ footer {
 	margin-top: 20px;
 }
 
-form.row {
+form .row {
 	width: 100%;
 }
 
