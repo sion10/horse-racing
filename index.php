@@ -15,7 +15,7 @@
 	<body>
 		<header>
 			<h1>Horse Racer</h1>
-			<form id="login-form" method="post" action="login.php">
+			<form id="login-form" method="post" action="index.php">
 				<div class="row">
 					<label for="username">Username</label>
 					<input id="username" name="uname" type="text">
