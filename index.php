@@ -6,7 +6,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="icon" href="img/favicon.png">
-		<link rel="stylesheet" href="css/index.css">
+		<link rel="stylesheet" href="css/main.css">
 		<script src="js/p5.js"></script>
 		<script src="js/p5.dom.js"></script>
 		<script src="js/p5.sound.js"></script>
