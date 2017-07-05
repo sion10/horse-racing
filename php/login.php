@@ -9,6 +9,20 @@
 		<link rel="stylesheet" href="../css/main.css">
 	</head>
 	<body>
-		
+		<main>
+			<form id="login-form" method="post" action="../index.php">
+				<div class="row">
+					<label for="username">Username</label>
+					<input id="username" name="username" type="text">
+				</div>
+				<div class="row">
+					<label for="password">Password</label>
+					<input id="password" name="password" type="password">
+				</div>
+				<div class="row">
+					<button>Login/Register</button>
+				</div>
+			</form>
+		</main>
 	</body>
 </html>

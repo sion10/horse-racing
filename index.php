@@ -15,19 +15,8 @@
 	<body>
 		<header>
 			<h1>Horse Racer</h1>
-			<form id="login-form" method="post" action="index.php">
-				<div class="row">
-					<label for="username">Username</label>
-					<input id="username" name="uname" type="text">
-				</div>
-				<div class="row">
-					<label for="password">Password</label>
-					<input id="password" name="pword" type="password">
-				</div>
-				<div class="row">
-					<button>Login/Register</button>
-				</div>
-			</form>
+			<!-- Dynamically change this link when the user is already logged in to "logout" -->
+			<a href="php/login.php">Login/Register</a>
 		</header>
 		<main>
 			<div id="app_canvas"></div>
