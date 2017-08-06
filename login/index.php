@@ -5,12 +5,12 @@
 		<meta author="Jason R. Carrete">
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="icon" href="../img/favicon.png">
-		<link rel="stylesheet" href="../css/main.css">
+		<link rel="icon" href="/img/favicon.png">
+		<link rel="stylesheet" href="/css/main.css">
 	</head>
 	<body>
 		<main>
-			<form id="login-form" method="post" action="../index.php">
+			<form id="login-form" method="post" action="/index.php">
 				<div class="row">
 					<label for="username">Username</label>
 					<input id="username" name="username" type="text">
