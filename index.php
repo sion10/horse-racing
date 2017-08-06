@@ -16,7 +16,7 @@
 		<header>
 			<h1>Horse Racer</h1>
 			<!-- Dynamically change this link when the user is already logged in to "logout" -->
-			<a href="php/login.php">Login/Register</a>
+			<a href="login/">Login/Register</a>
 		</header>
 		<main>
 			<div id="app_canvas"></div>
